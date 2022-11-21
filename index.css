@@ -1,0 +1,45 @@
+.header {
+    font-size: 100px;
+    font-family: Helvetica;
+    font-weight: bold;
+    color: khaki;
+    text-align: center;
+    background-image: url(resources/images/pattern.jpeg);
+}
+.second {
+    font-size: 32px;
+    font-family: Helvetica;
+    font-weight: bold;
+    color: white;
+    background-color: mediumspringgreen;
+}
+.third {
+    font-size: 32px;
+    font-family: Helvetica;
+    font-weight: bold;
+    color: white;
+    background-color:lightcoral;
+
+}
+.fourth {
+    font-size: 32px;
+    font-family: Helvetica;
+    font-weight: bold;
+    color: white;
+    background-color:skyblue;
+}
+.purple {
+    color:blue;
+    font-family: Helvetica;
+    font-weight: bold;
+}
+.green {
+    color:blue;
+    font-family: Helvetica;
+    font-weight: bold;
+}
+.blue {
+    color:blue;
+    font-family: Helvetica;
+    font-weight: bold;
+}
